@@ -1,4 +1,4 @@
-#New Year's Day
+# New Year's Day
 
 Marking the first day of the new year according to the Gregorian calendar, **is not the same everywhere in the world**. While many countries celebrate on January 1st, there are variations based on different calendars and cultural traditions. Here are some factors influencing the differences:
 
