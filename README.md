@@ -36,7 +36,6 @@ Marking the first day of the new year according to the Gregorian calendar, **is 
 | | Europe: United Kingdom, Ireland, France, Spain, Portugal, Germany, Italy, Poland, Russia, Iceland, Finland, Sweden, Norway, Denmark, Netherlands, Belgium, Switzerland, Austria, Czech Republic, Slovakia, Hungary, Romania, Bulgaria, Ukraine, Belarus, Estonia, Latvia, Lithuania |
 | | Asia: China, Japan, India, North Korea, South Korea, Mongolia, Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikistan, Afghanistan, Pakistan, Iran, Iraq, Saudi Arabia, Turkey, Syria, Lebanon, Israel, Jordan, Yemen, Oman, United Arab Emirates, Qatar, Kuwait, Bahrain |
 | | Africa: Most of northern Africa, including Egypt, Algeria, Libya, Tunisia, Morocco, Western Sahara, Mauritania, Mali, Niger, Chad, Sudan, South Sudan, Eritrea, Djibouti, Somalia |
-
 | | ***Southern Hemisphere***| |
 | | South America: Chile, Argentina, Peru, Bolivia, Paraguay, Uruguay, Brazil, Ecuador, Colombia, Venezuela, Guyana, Suriname, French Guiana |
 | | Oceania: Australia, New Zealand, Papua New Guinea, Fiji, Vanuatu, Samoa, Tonga, Tuvalu, Kiribati, Solomon Islands, Micronesia, Palau, Nauru, Marshall Islands |
