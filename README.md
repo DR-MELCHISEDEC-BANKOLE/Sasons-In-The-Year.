@@ -50,6 +50,7 @@ Marking the first day of the new year according to the Gregorian calendar, **is 
 
 This is not an exhaustive list, and there are some countries that span both hemispheres. Additionally, some island nations may not be listed individually.
 
+## Nigeria Reality:
 Nigeria straddles both the Northern and Southern Hemispheres! The southernmost point of Nigeria is located just above the equator, around latitude 4°N, while the northernmost point reaches up to roughly latitude 14°N. This places about 8% of Nigeria's landmass in the Northern Hemisphere and 92% in the Southern Hemisphere.
 
 So, Nigeria experiences various seasons depending on the specific location within the country:
