@@ -1,24 +1,3 @@
-# New Year's Day
-
-Marking the first day of the new year according to the Gregorian calendar, **is not the same everywhere in the world**. While many countries celebrate on January 1st, there are variations based on different calendars and cultural traditions. Here are some factors influencing the differences:
-
-**Calendars:**
-
-* **Lunar calendars:** Some cultures, like China and Vietnam, follow a lunar calendar where New Year falls on a different date each year, usually between late January and mid-February.
-* **Other calendars:** Other calendars, like the Hindu calendar, use different starting points and lengths for years, leading to New Year celebrations on diverse dates.
-
-**Time zones:**
-
-* **Global clock differences:** As the Earth rotates, countries welcome the new year at different times due to time zone variations. The first places to celebrate include New Zealand and Samoa, while others join in gradually as it becomes midnight in their respective zones.
-
-**Cultural traditions:**
-
-* **Local New Years:** Some cultures have additional New Year celebrations based on their own historical or religious calendars. For example, the Iranian New Year (Nowruz) falls on the spring equinox, which can be sometime in March.
-* **Alternative celebrations:** Other regions may have additional festivities besides January 1st, focusing on specific religious or cultural events around that time.
-
-**Therefore, while many countries share January 1st as New Year's Day, the celebrations, timing, and significance can differ greatly depending on location, calendar system, and cultural traditions.**
-
-
 ## Seasons of the Year:
 
 | Season | Typical Months (Northern Hemisphere) | Typical Months (Southern Hemisphere) | Key Characteristics |
@@ -86,5 +65,25 @@ Africa's diverse geography leads to distinct seasonal patterns in different regi
 * Altitude, ocean currents, and other factors can further influence seasonal patterns.
 
 While the majority of Nigeria lies in the Southern Hemisphere, understanding its landmass distribution across both hemispheres helps explain the diverse climatic patterns and landscapes experienced throughout the country.
+
+# New Year's Day
+
+Marking the first day of the new year according to the Gregorian calendar, **is not the same everywhere in the world**. While many countries celebrate on January 1st, there are variations based on different calendars and cultural traditions. Here are some factors influencing the differences:
+
+**Calendars:**
+
+* **Lunar calendars:** Some cultures, like China and Vietnam, follow a lunar calendar where New Year falls on a different date each year, usually between late January and mid-February.
+* **Other calendars:** Other calendars, like the Hindu calendar, use different starting points and lengths for years, leading to New Year celebrations on diverse dates.
+
+**Time zones:**
+
+* **Global clock differences:** As the Earth rotates, countries welcome the new year at different times due to time zone variations. The first places to celebrate include New Zealand and Samoa, while others join in gradually as it becomes midnight in their respective zones.
+
+**Cultural traditions:**
+
+* **Local New Years:** Some cultures have additional New Year celebrations based on their own historical or religious calendars. For example, the Iranian New Year (Nowruz) falls on the spring equinox, which can be sometime in March.
+* **Alternative celebrations:** Other regions may have additional festivities besides January 1st, focusing on specific religious or cultural events around that time.
+
+**Therefore, while many countries share January 1st as New Year's Day, the celebrations, timing, and significance can differ greatly depending on location, calendar system, and cultural traditions.**
 
 Hopefully, this information provides a clearer understanding of the diverse seasonal experiences across Africa. For specific regions or questions, feel free to ask! I'm happy to delve deeper into the intricate and fascinating seasonal variations of this vast continent.
